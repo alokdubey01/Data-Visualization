@@ -8,4 +8,4 @@ pip install tensorflow
 ```
 pip install keras
 ```
-![Screenshot](/relative/path/to/img.png?raw=true)
+![Screenshot](img.png?raw=true)
