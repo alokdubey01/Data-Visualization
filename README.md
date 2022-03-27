@@ -8,4 +8,5 @@ pip install tensorflow
 ```
 pip install keras
 ```
-![Screenshot](img.png?raw=true)
+# Project Screenshot
+<img src="img.png" alt="Project Screenshot" height="600px" width="600px"/>
